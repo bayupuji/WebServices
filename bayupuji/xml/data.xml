@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <fakultas>
+        <nama_fakultas>teknik</nama_fakultas>
+        <kode>8865ghhbh</kode>
+        <dekan>bayupujin</dekan>
+    </fakultas>
+     <fakultas>
+        <nama_fakultas>ekonomi</nama_fakultas>
+        <kode>37367dggdg</kode>
+        <dekan>hilmaalviani</dekan>
+    </fakultas>
+    <fakultas>
+        <nama_fakultas>alviani</nama_fakultas>
+        <kode>7e78hdb</kode>
+        <dekan>baimwong</dekan>
+    </fakultas>
+</data>
